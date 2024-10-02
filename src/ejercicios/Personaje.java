@@ -5,7 +5,7 @@
   Modulo:   Acceso a Datos
   UD:       UD01
   Link: 	
-  Descripcion del programa:   
+  Descripcion del programa:   ...
                                
 *******************************************************************************************************************/
 package ejercicios;
